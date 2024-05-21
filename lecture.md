@@ -81,4 +81,5 @@ max() находит максимальное значение среди ука
 let num = Math.max(1,2,3,4,5)
 console.log(a);
 ```
-# Thanks! 
+
+![alt text](image.png)
